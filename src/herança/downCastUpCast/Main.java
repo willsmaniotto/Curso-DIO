@@ -14,7 +14,5 @@ public class Main {
 		//Dá problema na execução pq a classe genérica não possui todos os atributos necessário. Não é recomendado fazer.
 		Gerente gerente1 = (Gerente) new Funcionario();
 		
-		oooo;
-		
 	}
 }
